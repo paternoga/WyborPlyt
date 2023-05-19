@@ -1,0 +1,15 @@
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ProgramZPłytami.exe
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ProgramZPłytami.deps.json
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ProgramZPłytami.runtimeconfig.json
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ProgramZPłytami.dll
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ProgramZPłytami.pdb
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.csproj.AssemblyReference.cache
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.AssemblyInfoInputs.cache
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.AssemblyInfo.cs
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.csproj.CoreCompileInputs.cache
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.dll
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ProgramZPłytami.dll
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.pdb
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ProgramZPłytami.genruntimeconfig.cache
+C:\Users\KUBA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ProgramZPłytami.dll
